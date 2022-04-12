@@ -1,7 +1,6 @@
 # Our work
 
 title={Multi-Scale Error Feedback Network for Low-light Image Enhancement},
-
 author={Yi Qian, Zetao Jiang, Yuting He, Shaoqin Zhang and Shenming Jiang}
 
 # Download

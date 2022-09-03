@@ -1,7 +1,13 @@
 # Our work
 
-Title={Multi-Scale Error Feedback Network for Low-light Image Enhancement},
-Author={Yi Qian, Zetao Jiang, Yuting He, Shaoqin Zhang and Shenming Jiang}
+@article{qian2022multi,
+  title={Multi-scale error feedback network for low-light image enhancement},
+  author={Qian, Yi and Jiang, Zetao and He, Yuting and Zhang, Shaoqin and Jiang, Shenming},
+  journal={Neural Computing and Applications},
+  pages={1--17},
+  year={2022},
+  publisher={Springer}
+}
 
 # Download
 
